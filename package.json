@@ -1,27 +1,22 @@
 {
   "name": "cindyslobsterrolls",
   "version": "1.0.0",
-  "description": "A Lobster Roll Shack in Freeport Me",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "scss": "gulp sass"
-},
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tallen1985/cindysLobsterRolls.git"
   },
-  "author": "Grey Gato Media",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tallen1985/cindysLobsterRolls/issues"
   },
   "homepage": "https://github.com/tallen1985/cindysLobsterRolls#readme",
-  "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-concat": "^2.6.1",
-    "gulp-sass": "^5.1.0",
-    "node-sass": "^7.0.1"
+  "dependencies": {
+    "@splidejs/splide": "^4.0.1"
   }
 }

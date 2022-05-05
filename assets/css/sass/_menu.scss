@@ -7,6 +7,8 @@
     
 
     >.content {
+        padding-top: 2em;
+        padding-bottom: 2em;
         background: $white;
         border-radius: 15px;
         text-transform: uppercase;
@@ -56,6 +58,18 @@
                         &:before {
                             content: "-";
                         };
+                    }
+                }
+                .sauces {
+                    display: flex;
+                    flex-direction: row;
+                    flex-wrap: wrap;
+                    justify-content: center;
+                    h3 {
+                        width: 100%;
+                    }
+                    p {
+                        padding: 0 1.5em;
                     }
                 }
             }

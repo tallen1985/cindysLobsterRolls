@@ -1,7 +1,6 @@
-
 $black: #000;
-$white: #FFF;
-$red: rgb(117, 29, 72);
+$white: #fff;
+$red: rgb(156, 4, 18);
 @mixin tablet {
   @media screen and(min-width: 900px) {
     @content;
@@ -24,11 +23,13 @@ $red: rgb(117, 29, 72);
 
 @import "normalize";
 @import "menu";
-
+@import "aboutus";
+@import "contact";
+@import "gallery";
 
 body {
   background-color: $black;
-  color: #FFF;
+  color: #fff;
   text-align: center;
   h2 {
     font-size: 3.2rem;
@@ -37,19 +38,26 @@ body {
     font-family: "Open Sans", sans-serif;
   }
 }
-.navbar{
+.split-columns {
+  display: grid;
+  @include tablet {
+    grid-template-columns: 1fr 1fr;
+    column-gap: 30px;
+  }
+}
+.navbar {
   background: $black;
-  >.container-fluid {
+  > .container-fluid {
     justify-content: flex-end;
   }
   .navbar-toggler {
     font-size: 1.5em;
   }
-  .navbar-nav{
+  .navbar-nav {
     text-align: right;
     padding: 0 30px;
   }
-  .navbar-nav a.nav-link{
+  .navbar-nav a.nav-link {
     color: $white;
   }
   @include tablet {
@@ -63,15 +71,14 @@ header {
   }
   @include tablet {
     padding-top: 53px;
-
   }
-  >.content {
+  > .content {
     @include max-wrap;
     text-align: center;
     display: flex;
     flex-direction: column;
     align-items: center;
-
+    padding-bottom: 2em;
     img {
       max-width: 355px;
       width: 100%;
@@ -85,7 +92,7 @@ header {
   ul {
     display: flex;
     flex-direction: row;
-    li{
+    li {
       text-transform: uppercase;
       padding: 0 1em;
       list-style: none;
@@ -98,21 +105,37 @@ header {
     }
   }
 }
+
+iframe {
+  margin: 2em 0;
+  border-radius: 15px;
+}
+
 footer {
   background: $black;
   text-align: center;
-  >.content {
+  > .content {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     img {
-      transform: scale(.5);
+      transform: scale(0.5);
     }
     .navigation {
       display: block;
     }
   }
-
+  svg {
+    filter: invert(23%) sepia(42%) saturate(1201%) hue-rotate(192deg)
+      brightness(96%) contrast(92%);
+    transform: scale(1.5);
+    margin: 0 2em 1em;
+    transition: all 0.3s ease;
+    &:hover {
+      filter: invert(100%);
+      transition: all 0.3s ease;
+    }
+  }
 }

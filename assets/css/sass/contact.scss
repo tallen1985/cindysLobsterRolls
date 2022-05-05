@@ -1,0 +1,19 @@
+.contact {
+    padding: 0 30px;
+    >.content {
+        @include max-wrap;
+        .two-columns {
+            display: inline-grid;
+            @include tablet {
+                grid-template-columns: 1fr 1fr;
+            }
+            .column {
+                text-align: center;
+                p {
+                    text-align: left;
+                }
+            }
+            
+        }
+    }
+}

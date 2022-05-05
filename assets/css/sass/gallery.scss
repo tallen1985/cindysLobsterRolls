@@ -1,0 +1,14 @@
+.gallery {
+  > .content {
+    @include max-wrap;
+    padding: 1em 30px;
+
+    img {
+      padding: 30px;
+      border-radius: 15px;
+      width: 100%;
+      max-width: 700px;
+      overflow-y: hidden;
+    }
+  }
+}

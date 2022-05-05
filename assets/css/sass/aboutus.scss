@@ -1,0 +1,27 @@
+.about-us {
+    background-color: $white;
+    >.content {
+        @include max-wrap;
+        padding: 1em 30px;
+        
+        h2 {
+            color: $black;
+        }
+        p {
+            color: $black;
+        }
+        img {
+            width: 100%;
+            border-radius: 15px;
+            box-shadow: 2px 2px 5px darkslategray;
+        }
+        .split-columns {
+            .column {
+                display: flex;
+                justify-content: center;
+                flex-direction: column;
+            }
+        }
+        
+    }
+}
