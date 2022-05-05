@@ -501,6 +501,12 @@ body h2 {
 }
 body a {
   font-family: "Open Sans", sans-serif;
+  color: white;
+  transition: all 0.3s ease;
+}
+body a:hover {
+  color: rgb(156, 4, 18);
+  transform: all 0.3s ease;
 }
 
 .split-columns {
@@ -578,9 +584,12 @@ header > .content img {
 }
 .navigation ul li a {
   color: #fff;
+  transition: all 0.3s ease;
 }
 .navigation ul li a:hover {
+  color: rgb(156, 4, 18);
   text-decoration: underline;
+  transition: all 0.3s ease;
 }
 
 iframe {
@@ -605,13 +614,13 @@ footer > .content img {
 footer > .content .navigation {
   display: block;
 }
-footer svg {
+footer a svg {
   filter: invert(23%) sepia(42%) saturate(1201%) hue-rotate(192deg) brightness(96%) contrast(92%);
   transform: scale(1.5);
   margin: 0 2em 1em;
   transition: all 0.3s ease;
 }
-footer svg:hover {
+footer a svg:hover {
   filter: invert(100%);
   transition: all 0.3s ease;
 }
