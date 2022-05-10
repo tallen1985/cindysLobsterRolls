@@ -145,7 +145,7 @@
                 <h3>* Cindy's Specialty's Items on Menu</h3>
                 <p class='centered'>We do not serve fast food but we serve great food as fast as we can!</p>
                 <p class="centered" style="font-weight: 500;">*Our products may contain shells or other naturally
-                    occuring objects.</p>
+                    occurring objects.</p>
                 <p class="centered" style="font-weight: 500;">*Consuming raw or under cooked meats, poultry, seafood,
                     shellfish, or eggs may increase risks of a food borne illness</p>
                 <p class="centered" style="font-weight: 500;">*prices are subject to change</p>
