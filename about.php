@@ -5,7 +5,7 @@ include_once "header.php";
     <div class="content">
         <div class="split-columns">
             <div class="column">
-                <img src="assets/images/aboutus.png">
+                <img src="assets/images/aboutus.png" alt="View of Cindy's from parking lot">
 
             </div>
             <div class="column">
