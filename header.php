@@ -12,6 +12,15 @@
         content="We specialize in lobster and crabmeat rolls as well as wicked good fried Maine seafood">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://cindyslobsterrolls.com/assets/images/home-logo.png">
+    <meta name="title" content="Cindy's Lobster Rolls | Freeport Maine">
+    <meta name="description"
+        content="We specialize in lobster and crabmeat rolls as well as wicked good fried Maine seafood">
+    <meta name="keywords" content="Lobster, Crabmeat, Seafood, Clams, Maine">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="English">
+    <meta name="author" content="Grey Gato Media">
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
