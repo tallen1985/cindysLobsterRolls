@@ -1,7 +1,7 @@
 </main>
 <footer>
     <div class="content">
-        <img src="/assets/images/banner-logo.png" alt="">
+        <img src="/assets/images/banner-logo.png" alt="logo">
         <div class="navigation">
             <div class="content">
                 <ul>
