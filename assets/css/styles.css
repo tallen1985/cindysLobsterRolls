@@ -625,4 +625,8 @@ footer a svg:hover {
   transition: all 0.3s ease;
 }
 
+.newItem img {
+  border-radius: 15px;
+}
+
 /*# sourceMappingURL=styles.css.map */

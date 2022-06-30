@@ -18,8 +18,6 @@ include_once "header.php";
                     <li class="splide__slide"><img src="assets/images/newImages/tacoAndRoll.jpg"
                             alt="Fish Taco and Roll"></li>
                     <li class="splide__slide"><img src="assets/images/newImages/shrimpRoll.jpg" alt="Shrimp Roll"></li>
-                    <li class="splide__slide"><img src="assets/images/gallery/file1_1618957137 Medium.jpeg"
-                            alt="basket of fried shrimp"></li>
                     <li class="splide__slide"><img src="assets/images/gallery/file2_1618957137 Medium.jpeg"
                             alt="fried clams, coleslaw and fries"></li>
                     <li class="splide__slide"><img src="assets/images/gallery/IMG_0599_1618957172 Medium.jpeg"
