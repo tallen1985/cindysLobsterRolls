@@ -577,6 +577,11 @@ header > .content img {
   display: flex;
   flex-direction: row;
 }
+@media screen and (max-width: 899px) {
+  .navigation ul {
+    flex-direction: column;
+  }
+}
 .navigation ul li {
   text-transform: uppercase;
   padding: 0 1em;
@@ -608,11 +613,13 @@ footer > .content {
   align-items: center;
   justify-content: center;
 }
+@media screen and (max-width: 899px) {
+  footer > .content {
+    flex-direction: column;
+  }
+}
 footer > .content img {
   transform: scale(0.5);
-}
-footer > .content .navigation {
-  display: block;
 }
 footer a svg {
   filter: invert(23%) sepia(42%) saturate(1201%) hue-rotate(192deg) brightness(96%) contrast(92%);
@@ -625,8 +632,13 @@ footer a svg:hover {
   transition: all 0.3s ease;
 }
 
+.newItem {
+  padding: 0 30px;
+  margin: 0 auto;
+}
 .newItem img {
   border-radius: 15px;
+  max-width: 100%;
 }
 
 /*# sourceMappingURL=styles.css.map */

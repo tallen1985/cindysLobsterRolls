@@ -99,6 +99,9 @@ header {
   ul {
     display: flex;
     flex-direction: row;
+    @include mobile {
+      flex-direction: column;
+    }
     li {
       text-transform: uppercase;
       padding: 0 1em;
@@ -127,15 +130,18 @@ footer {
   > .content {
     display: flex;
     flex-direction: row;
+    @include mobile {
+      flex-direction: column;
+    }
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     img {
       transform: scale(0.5);
     }
-    .navigation {
-      display: block;
-    }
+    // .navigation {
+    //   display: block;
+    // }
   }
   a {
     svg {
@@ -152,7 +158,10 @@ footer {
   }
 }
 .newItem {
+  padding: 0 30px;
+  margin: 0 auto;
   img {
     border-radius: 15px;
+    max-width: 100%;
   }
 }

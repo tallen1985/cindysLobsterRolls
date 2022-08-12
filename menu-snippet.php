@@ -1,5 +1,5 @@
 <h2> Menu </h2>
-<p><em>All items market price unless otherwise noted. If you're curious...just ask.</em></p>
+<p style="padding: 0 30px;"><em>All items market price unless otherwise noted. If you're curious...just ask.</em></p>
 
 <div class="menu-section">
     <div class="content">
