@@ -511,6 +511,7 @@ body a:hover {
 
 .stickyHeader {
   position: fixed;
+  padding: 0 30px;
   top: 0;
   height: 75px;
   width: 100%;
