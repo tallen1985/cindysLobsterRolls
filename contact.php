@@ -27,10 +27,10 @@ include_once "header.php";
                     Monday 11:00 am - 6:30 pm<br>
                     Tuesday: Closed<br>
                     Wednesday: Closed<br>
-                    Thursday 11:00 am - 6:30 pm<br>
-                    Friday 11:00 am - 6:30 pm<br>
-                    Saturday 11:00 am - 6:30 pm<br>
-                    Sunday 11:00 am - 6:30 pm<br>
+                    Thursday 11:00 am - 6:00 pm<br>
+                    Friday 11:00 am - 6:00 pm<br>
+                    Saturday 11:00 am - 6:00 pm<br>
+                    Sunday 11:00 am - 6:00 pm<br>
                 </p>
             </div>
         </div>
