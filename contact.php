@@ -24,13 +24,7 @@ include_once "header.php";
             </div>
             <div class="column">
                 <p>
-                    Monday 11:00 am - 6:00 pm<br>
-                    Tuesday: Closed<br>
-                    Wednesday: Closed<br>
-                    Thursday 11:00 am - 6:00 pm<br>
-                    Friday 11:00 am - 6:00 pm<br>
-                    Saturday 11:00 am - 6:00 pm<br>
-                    Sunday 11:00 am - 6:00 pm<br>
+                    Closed for Season!
                 </p>
             </div>
         </div>
