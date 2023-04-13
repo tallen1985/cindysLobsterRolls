@@ -16,7 +16,7 @@ include_once "header.php";
                 <p>Cindy’s Lobster Rolls<br>
                     292 U.S. Route 1<br>
                     Freeport, Maine 04032<br>
-                    <a href="tel:(207) 809-1009">(207) 809-1009</a><br>
+                    <a href="tel:2078091009">(207) 809-1009</a><br>
 
                     <a href="https://www.google.com/maps/dir/?api=1&destination=292+U.S.+Route+1+Freeport+ME+04032">Get
                         Directions</a>
@@ -24,7 +24,7 @@ include_once "header.php";
             </div>
             <div class="column">
                 <p>
-                    Closed for Season!
+                    Open Thursday - Monday 11:00am - 7:00pm
                 </p>
             </div>
         </div>

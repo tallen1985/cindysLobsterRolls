@@ -19,7 +19,6 @@
                     <h3>Salads</h3>
                     <p>*Homemade Coleslaw</p>
                     <p>Caesar Salad</p>
-                    <p>Garden Salad</p>
                     <p class="centered red">Add ons</p>
                     <span class="centered">Chicken, Shrimp, Crabmeat, Lobster Meat</span>
                     <p>*Cindy's Lava Lava

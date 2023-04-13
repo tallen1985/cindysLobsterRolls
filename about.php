@@ -11,7 +11,7 @@ include_once "header.php";
             <div class="column">
                 <h2>Dennis and Sandy Owens</h2>
                 <p>
-                    We are Dennis and Sandy Owens, the new owners of Cindy’s in Freeport, Maine. You may know us as the
+                    We are Dennis and Sandy Owens, the proud owners of Cindy’s in Freeport, Maine. You may know us as the
                     previous
                     owners of Day’s Crabmeat & Lobster. We both worked at Day’s for more than 32 years. We sold the
                     business

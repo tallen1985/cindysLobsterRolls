@@ -7,9 +7,8 @@ include_once "header.php";
 </div> -->
 <div class="closedModal">
     <div class="content">
-        <h1>Closed for the Season</h1>
-        <p>On behalf of all of us at Cindy's Lobster Rolls we thank you for another great season here in beautiful
-            Freeport Maine. Hope to see you all next spring!</p>
+        <h1>Reopening for Season!</h1>
+        <p>We are excited to announce we will be reopening for the season on May 11th.</p>
         <button class="js-close-modal cta-btn">Close</button>
     </div>
 
