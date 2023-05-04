@@ -141,7 +141,7 @@
                     <p>brownies</p>
                     <p>hot fudge brownie sundae</p>
                 </div>
-                <div>
+                <div style="text-align: center">
                     <p class="red">Fresh Picked Lobstermeat <br />
                         1/2 or 1lb When available - Please call ahead</p>
                 </div>
