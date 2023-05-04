@@ -8,7 +8,8 @@
                 <h3>Cindy's Lobster Rolls</h3>
                 <p>292 us route , freeport me, 04032</p>
                 <div class="chowder">
-                    <p>Chowder (cup)</p>
+                    <p>Clam Chowder (cup)</p>
+                    <p>Clam Corn Chowder (cup)</p>
                 </div>
                 <div class="fries">
                     <p>Hand Cut Fries (Sm / Lg)</p>
@@ -57,7 +58,7 @@
                     <p>Fried Clam Roll <span class="red">(Whole Belly)</span></p>
                     <p>Fried Scallop Roll</p>
                     <p>Fried Haddock Sandwich <span class="red">Lettuce & Tomato</span></p>
-                    <p>Fried Scallop Roll</p>
+                    <p>Fried Shrimp Roll</p>
                     <p>Clam Cake <span class="red">Lettuce & Tomato</span></p>
                     <p>Crab Cake<span class="red">Lettuce & Tomato</span></p>
                     <p>Chicken <span class="red">Lettuce & Tomato</span></p>
@@ -91,15 +92,15 @@
                         coleslaw, & sauce</span>
                     <p>*Clams <span class="red">(Whole belly)</span></p>
                     <p>*Haddock Nuggets</p>
-                    <p>Shrimp</p>
-                    <p>Scallops</p>
+                    <p>Fried Shrimp</p>
+                    <p>Fried Scallops</p>
+                    <p>Fried Clams & Fried Shrimp</p>
                     <p>Chicken Tenders</p>
                     <p>Clam Cake (2)</p>
                     <p>Crab Cake (2)</p>
                 </div>
                 <div>
-                    <h3>Combination Baskets</h3>
-                    <span class="centered red">Choose 2 or 3 items, Clams or Scallops will cost just a bit extra.</span>
+                    <h3>Baskets</h3>
                     <div class="two-columns">
                         <p class="red">Clams</p>
                         <p class="red">Scallops</p>
@@ -117,9 +118,8 @@
                     <p>house made bbq</p>
                     <p>honey mustard</p>
                     <p>mayo</p>
-                    <p>thai chili</p>
+                    <p>sweet thai chili</p>
                     <p>ranch</p>
-                    <p>balsamic</p>
                     <p>Caesar</p>
                 </div>
                 <div class="sauces">
@@ -141,16 +141,21 @@
                     <p>brownies</p>
                     <p>hot fudge brownie sundae</p>
                 </div>
-                <h3>* Cindy's Specialty's Items on Menu</h3>
-                <p class='centered'>We do not serve fast food but we serve great food as fast as we can!</p>
-                <p class="centered" style="font-weight: 500;">*Our products may contain shells or other naturally
-                    occurring objects.</p>
-                <p class="centered" style="font-weight: 500;">*Consuming raw or under cooked meats, poultry, seafood,
-                    shellfish, or eggs may increase risks of a food borne illness</p>
-                <p class="centered" style="font-weight: 500;">*prices are subject to change</p>
-                <p class="centered" style="font-weight: 500;">*plus tax</p>
-            </div>
+                <div>
+                    <p class="red">Fresh Picked Lobstermeat <br />
+                        1/2 or 1lb When available - Please call ahead</p>
+                </div>
+                <div class <h3>* Cindy's Specialty's Items on Menu</h3>
+                    <p class='centered'>We do not serve fast food but we serve great food as fast as we can!</p>
+                    <p class="centered" style="font-weight: 500;">*Our products may contain shells or other naturally
+                        occurring objects.</p>
+                    <p class="centered" style="font-weight: 500;">*Consuming raw or under cooked meats, poultry,
+                        seafood,
+                        shellfish, or eggs may increase risks of a food borne illness</p>
+                    <p class="centered" style="font-weight: 500;">*prices are subject to change</p>
+                    <p class="centered" style="font-weight: 500;">*plus tax</p>
+                </div>
 
+            </div>
         </div>
     </div>
-</div>
