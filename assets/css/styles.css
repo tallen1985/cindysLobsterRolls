@@ -354,6 +354,7 @@ button {
   max-width: 1400px;
   margin: 0 auto;
   color: #000;
+  padding: 0;
 }
 @media screen and (min-width: 900px) {
   .menu-section {
@@ -364,8 +365,13 @@ button {
   padding-top: 2em;
   padding-bottom: 2em;
   background: #fff;
-  border-radius: 15px;
+  border-radius: 0;
   text-transform: uppercase;
+}
+@media screen and (min-width: 900px) {
+  .menu-section > .content {
+    border-radius: 15px;
+  }
 }
 .menu-section > .content h3 {
   color: rgb(156, 4, 18);

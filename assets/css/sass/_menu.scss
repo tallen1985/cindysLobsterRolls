@@ -1,6 +1,7 @@
 .menu-section {
   @include max-wrap;
   color: $black;
+  padding: 0;
 
   @include tablet {
     padding: 0 30px;
@@ -10,8 +11,11 @@
     padding-top: 2em;
     padding-bottom: 2em;
     background: $white;
-    border-radius: 15px;
+    border-radius: 0;
     text-transform: uppercase;
+    @include tablet {
+      border-radius: 15px;
+    }
 
     h3 {
       color: $red;
