@@ -1,86 +1,84 @@
-
 .menu-section {
-    @include max-wrap;
+  @include max-wrap;
+  color: $black;
+
+  @include tablet {
     padding: 0 30px;
-    color: $black;
-    
-    
+  }
 
-    >.content {
-        padding-top: 2em;
-        padding-bottom: 2em;
-        background: $white;
-        border-radius: 15px;
-        text-transform: uppercase;
+  > .content {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    background: $white;
+    border-radius: 15px;
+    text-transform: uppercase;
 
-        h3 {
-            color: $red;
-            font-size: 2.4rem;
-            font-weight: 700;
-            margin-bottom: .75rem;
-            text-align: center;
-        }
-        p {
-            font-size: 1.8rem;
-            font-weight: 700;
-        }
-
-        .split-columns {
-            display: grid;
-            @include tablet {
-                grid-template-columns: 1fr 1fr;
-                column-gap: 30px;
-            }
-            .column {
-                padding: 0 30px;
-                div {
-                    display: flex;
-                    flex-direction: column;
-                    line-height: 1.4;
-                    text-align: left;
-                    margin-bottom: 1rem;
-                    p {
-                        margin-bottom: 0;
-                    }
-                    span {
-                        font-size: 1.4rem;
-                        font-weight: bold;
-                        margin-bottom: 1.5rem;
-                    }
-
-                }
-                .two-columns {
-                    display: grid;
-                    grid-template-columns: 1fr 1fr;
-                    text-align: center;
-                    padding: 0 30px;
-                    p {
-                        &:before {
-                            content: "-";
-                        };
-                    }
-                }
-                .sauces {
-                    display: flex;
-                    flex-direction: row;
-                    flex-wrap: wrap;
-                    justify-content: center;
-                    h3 {
-                        width: 100%;
-                    }
-                    p {
-                        padding: 0 1.5em;
-                    }
-                }
-            }
-        }
+    h3 {
+      color: $red;
+      font-size: 2.4rem;
+      font-weight: 700;
+      margin-bottom: 0.75rem;
+      text-align: center;
+    }
+    p {
+      font-size: 1.8rem;
+      font-weight: 700;
     }
 
+    .split-columns {
+      display: grid;
+      @include tablet {
+        grid-template-columns: 1fr 1fr;
+        column-gap: 30px;
+      }
+      .column {
+        padding: 0 30px;
+        div {
+          display: flex;
+          flex-direction: column;
+          line-height: 1.4;
+          text-align: left;
+          margin-bottom: 1rem;
+          p {
+            margin-bottom: 0;
+          }
+          span {
+            font-size: 1.4rem;
+            font-weight: bold;
+            margin-bottom: 1.5rem;
+          }
+        }
+        .two-columns {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          text-align: center;
+          padding: 0 30px;
+          p {
+            &:before {
+              content: "-";
+            }
+          }
+        }
+        .sauces {
+          display: flex;
+          flex-direction: row;
+          flex-wrap: wrap;
+          justify-content: center;
+          h3 {
+            width: 100%;
+          }
+          p {
+            padding: 0 1.5em;
+          }
+        }
+      }
+    }
+  }
 }
 
 .red {
-    color: $red;
+  color: $red;
 }
 .centered {
-    text-align: center;
+  text-align: center;
 }

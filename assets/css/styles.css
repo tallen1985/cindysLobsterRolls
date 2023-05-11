@@ -353,8 +353,12 @@ button {
 .menu-section {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 0 30px;
   color: #000;
+}
+@media screen and (min-width: 900px) {
+  .menu-section {
+    padding: 0 30px;
+  }
 }
 .menu-section > .content {
   padding-top: 2em;
