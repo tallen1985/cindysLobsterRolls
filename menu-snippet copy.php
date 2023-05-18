@@ -9,17 +9,16 @@
                 <p>292 us route , freeport me, 04032</p>
                 <div class="chowder">
                     <p>Clam Chowder (cup)</p>
-                    <p>Crab Corn Chowder (cup)</p>
+                    <p>Clam Corn Chowder (cup)</p>
                 </div>
                 <div class="fries">
                     <p>Hand Cut Fries (Sm / Lg)</p>
                     <p>Sweet Potato tots (Sm / Lg)</p>
                     <p>Maine Made Fox Potato Chips ( Sm/ lg)</p>
-                    <p>*Homemade Coleslaw</p>
                 </div>
-                <!-- <div class="salads">
+                <div class="salads">
                     <h3>Salads</h3>
-                    
+                    <p>*Homemade Coleslaw</p>
                     <p>Caesar Salad</p>
                     <p class="centered red">Add ons</p>
                     <span class="centered">Chicken, Shrimp, Crabmeat, Lobster Meat</span>
@@ -41,7 +40,7 @@
                         <p>Haddock</p>
                         <p>Chicken</p>
                     </div>
-                </div> -->
+                </div>
                 <div class="sandwiches">
                     <h3>Grilled Rolls & Sandwiches</h3>
                     <p class="centered">Lobster Roll<span class="red" style="padding: 0 1em;">Regular or Large</span>
@@ -60,8 +59,8 @@
                     <p>Fried Scallop Roll</p>
                     <p>Fried Haddock Sandwich <span class="red">Lettuce & Tomato</span></p>
                     <p>Fried Shrimp Roll</p>
-                    <!-- <p>Clam Cake <span class="red">Lettuce & Tomato</span></p> -->
-                    <!-- <p>Crab Cake<span class="red">Lettuce & Tomato</span></p> -->
+                    <p>Clam Cake <span class="red">Lettuce & Tomato</span></p>
+                    <p>Crab Cake<span class="red">Lettuce & Tomato</span></p>
                     <p>Chicken <span class="red">Lettuce & Tomato</span></p>
                     <p>Grilled Cheese</p>
                     <p>Grilled Hot Dog</p>
@@ -85,7 +84,7 @@
                     <p>Scallops</p>
                     <p>Chicken Tenders</p>
                     <p>Clam Cake (1)</p>
-                    <!-- <p>Crab Cake (1)</p> -->
+                    <p>Crab Cake (1)</p>
                 </div>
                 <div>
                     <h3>Baskets</h3>
@@ -95,12 +94,12 @@
                     <p>*Haddock Nuggets</p>
                     <p>Fried Shrimp</p>
                     <p>Fried Scallops</p>
-                    <!-- <p>Fried Clams & Fried Shrimp</p> -->
+                    <p>Fried Clams & Fried Shrimp</p>
                     <p>Chicken Tenders</p>
                     <p>Clam Cake (2)</p>
-                    <!-- <p>Crab Cake (2)</p> -->
+                    <p>Crab Cake (2)</p>
                 </div>
-                <!-- <div>
+                <div>
                     <h3>Baskets</h3>
                     <div class="two-columns">
                         <p class="red">Clams</p>
@@ -110,7 +109,7 @@
                         <p>Clam Cake (1)</p>
                         <p>Crab Cake (1)</p>
                     </div>
-                </div> -->
+                </div>
                 <div class="sauces">
                     <h3>*Sauces and Dressings Available</h3>
                     <p>Sweet Tartar</p>
@@ -140,7 +139,7 @@
                     <p>Whoopie pies</p>
                     <p>cookies</p>
                     <p>brownies</p>
-                    <!-- <p>hot fudge brownie sundae</p> -->
+                    <p>hot fudge brownie sundae</p>
                 </div>
                 <div style="text-align: center">
                     <p class="red">Fresh Picked Lobstermeat <br />
