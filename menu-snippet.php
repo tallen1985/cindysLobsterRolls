@@ -72,7 +72,7 @@
                             style="padding: 0 1em;">Gluten Free Bun</span></p>
                 </div>
                 <p style="margin-bottom: 0;">Call Ahead</p>
-                <p>Telephone <span class="red"><a href="tel:2078091009">207-809-1009</a></span></p>
+                <p>Telephone <span class="red"><a class="red" href="tel:2078091009">207-809-1009</a></span></p>
             </div>
             <div class="column">
 
