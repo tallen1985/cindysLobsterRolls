@@ -472,6 +472,7 @@ button {
 .contact > .content {
   max-width: 1400px;
   margin: 0 auto;
+  color: white;
 }
 .contact > .content .two-columns {
   display: inline-grid;
