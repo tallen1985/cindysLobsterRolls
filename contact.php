@@ -24,7 +24,7 @@ include_once "header.php";
             </div>
             <div class="column">
                 <p>
-                    Open Thursday - Monday 11:00am - 7:00pm
+                    Open Thursday - Monday 11:00am - 6:00pm
                 </p>
             </div>
         </div>
