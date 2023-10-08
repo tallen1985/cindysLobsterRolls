@@ -5,14 +5,16 @@ include_once "header.php";
     <img src="assets/images/newImages/fishTaco.jpg" alt="fish taco">
     <h2>Try Our New Fish Tacos!</h2>
 </div> -->
-<!-- <div class="closedModal">
+<div class="closedModal">
     <div class="content">
-        <h1>Reopening for Season!</h1>
-        <p>We are excited to announce we will be reopening for the season on May 11th.</p>
+        <h1>Closed for the Season</h1>
+        <p>Cindy's Lobster Rolls is wrapping up another fantastic season! 
+            As we close for the season, we want to extend our sincerest thanks for your incredible support and loyalty. 
+            We've had an amazing time serving you our mouthwatering lobster rolls and seafood specialties this summer.</p>
         <button class="js-close-modal cta-btn">Close</button>
     </div>
 
-</div> -->
+</div>
 
 <style>
 .closedModal {
