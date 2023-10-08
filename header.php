@@ -40,9 +40,9 @@
 </head>
 
 <body>
-    <div class="stickyHeader">
+    <!-- <div class="stickyHeader">
         <h2>We will be closing for the season on October 7th.  Thanks for another Great Year!</h2>
-    </div>
+    </div> -->
     <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container-fluid">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
