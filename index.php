@@ -27,10 +27,11 @@ include_once "header.php";
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 0 30px 0 30px;
 }
 
 .closedModal>.content {
-    width: 50%;
+    width: 100%;
     border-radius: 30px;
     background-color: #000;
     display: flex;
@@ -38,6 +39,8 @@ include_once "header.php";
     justify-content: center;
     align-items: center;
     padding: 2em;
+    @media screen and (min-width: 900px) {
+        width: 50%;
 }
 
 .closedModal>.content .cta-btn {
