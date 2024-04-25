@@ -41,7 +41,7 @@
 
 <body>
     <!-- <div class="stickyHeader">
-        <h2>We will be closing for the season on October 7th.  Thanks for another Great Year!</h2>
+        <h2>Cindy's Lobster Rolls will be Reopening for the season May 9th!</h2>
     </div> -->
     <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container-fluid">

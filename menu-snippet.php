@@ -31,17 +31,16 @@
                         <p>Fried Haddock</p>
                     </div>
                     </p>
-                </div>
+                </div>-->
                 <div class="tacos">
-                    <h3>Cindys Tacos (2)</h3>
-                    <span class="red">Creamy Cilantro sauce, pickled onion, cabbage, cheddar on flour tortillas</span>
+                    <h3>Cindy's Tacos (2)</h3>
+                    <span class="red">Creamy Cilantro sauce, salsa, <strong>pickled onion, cabbage, cheddar on flour tortillas</strong></span>
                     <div class="two-columns">
                         <p>Fried Shrimp</p>
                         <p>Lobster Meat</p>
                         <p>Haddock</p>
-                        <p>Chicken</p>
                     </div>
-                </div> -->
+                </div>
                 <div class="sandwiches">
                     <h3>Grilled Rolls & Sandwiches</h3>
                     <p class="centered">Lobster Roll<span class="red" style="padding: 0 1em;">Regular or Large</span>
