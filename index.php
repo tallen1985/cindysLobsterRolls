@@ -5,14 +5,14 @@ include_once "header.php";
     <img src="assets/images/newImages/fishTaco.jpg" alt="fish taco">
     <h2>Try Our New Fish Tacos!</h2>
 </div> -->
-<div class="closedModal">
+<!-- <div class="closedModal">
     <div class="content">
         <h1>Closed for the Season</h1>
         <p>We are looking forward to reopening on May 9th!</p>
         <button class="js-close-modal cta-btn">Close</button>
     </div>
 
-</div>
+</div> -->
 
 <style>
 .closedModal {
