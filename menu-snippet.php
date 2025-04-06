@@ -76,7 +76,7 @@
             <div class="column">
 
                 <div>
-                    <h3>Fried</h3>
+                    <h3>Fried Seafood</h3>
                     <span class="centered red">Come in 1/2 and full pint sizes</span>
                     <p>*Clams <span class="red">(Whole belly)</span></p>
                     <p>*Haddock Nuggets</p>
@@ -112,15 +112,14 @@
                 </div> -->
                 <div class="sauces">
                     <h3>*Sauces and Dressings Available</h3>
-                    <p>Sweet Tartar</p>
-                    <p>Tangy Tartar</p>
+                    <p>Sweet Tangy Tartar</p>
                     <p>cocktail</p>
                     <p>house made bbq</p>
                     <p>honey mustard</p>
                     <p>mayo</p>
                     <p>sweet thai chili</p>
                     <p>ranch</p>
-                    <p>Caesar</p>
+                    
                 </div>
                 <div class="sauces">
                     <h3>Beverages</h3>
@@ -135,10 +134,9 @@
                     <p>coffee</p>
                 </div>
                 <div class="sauces">
-                    <h3>Deserts</h3>
+                    <h3>Desserts</h3>
                     <p>Whoopie pies</p>
                     <p>cookies</p>
-                    <p>brownies</p>
                     <!-- <p>hot fudge brownie sundae</p> -->
                 </div>
                 <div style="text-align: center">
