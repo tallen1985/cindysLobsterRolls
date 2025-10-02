@@ -5,14 +5,16 @@ include_once "header.php";
     <img src="assets/images/newImages/fishTaco.jpg" alt="fish taco">
     <h2>Try Our New Fish Tacos!</h2>
 </div> -->
-<!-- <div class="closedModal">
+<?php if (date('Y-m-d') >= date('Y') . '-10-04'): ?>
+    <div class="closedModal">
     <div class="content">
         <h1>We're Coming Back!</h1>
         <p>We will be reopening for the year on May 1st!</p>
         <button class="js-close-modal cta-btn">Close</button>
     </div>
+</div>
+<?php endif; ?>
 
-</div> -->
 
 <style>
 .closedModal {

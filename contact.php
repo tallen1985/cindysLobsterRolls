@@ -23,9 +23,14 @@ include_once "header.php";
                 </p>
             </div>
             <div class="column">
-                <p>
+                
+<?php if (date('Y-m-d') >= date('Y') . '-10-04'): ?>
+    <p>Closed for the Season.  See you next Spring!</p>
+<?php else : ?>
+    <p>
                     Open Thursday - Monday 11:00am - 6pm
                 </p>
+    <?php endif; ?>
                 <!-- <p>Closed for the Season.  See you next Spring!</p> -->
             </div>
         </div>
