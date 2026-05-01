@@ -5,7 +5,7 @@ include_once "header.php";
     <img src="assets/images/newImages/fishTaco.jpg" alt="fish taco">
     <h2>Try Our New Fish Tacos!</h2>
 </div> -->
-<?php if (date('Y-m-d') < date('Y') . '-4-30'): ?>
+<!-- <?php if (date('Y-m-d') < date('Y') . '-4-30'): ?>
     <div class="closedModal">
     <div class="content">
         <h1>We're Coming Back!</h1>
@@ -13,7 +13,7 @@ include_once "header.php";
         <button class="js-close-modal cta-btn">Close</button>
     </div>
 </div>
-<?php endif; ?>
+<?php endif; ?> -->
 
 
 <style>
