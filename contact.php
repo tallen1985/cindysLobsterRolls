@@ -27,7 +27,6 @@ include_once "header.php";
     <p>
                     Open Thursday - Monday 11:00am - 6pm
                 </p>
-    <?php endif; ?>
                 <!-- <p>Closed for the Season.  See you next Spring!</p> -->
             </div>
         </div>
