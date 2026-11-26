@@ -7,8 +7,8 @@ include_once "header.php";
 </div> -->
 <div class="closedModal">
     <div class="content">
-        <h1>We're Coming Back!</h1>
-        <p>We will be reopening for the year on April 30!</p>
+        <h1>Closed for the Season</h1>
+        <p>We will be enjoying the winter weather and return in the spring!</p>
         <button class="js-close-modal cta-btn">Close</button>
     </div>
 </div>
